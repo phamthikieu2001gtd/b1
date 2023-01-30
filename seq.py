@@ -8,7 +8,6 @@ print('Item 2 is', shoplist[2])
 print('Item 3 is', shoplist[3])
 print('Item -1 is', shoplist[-1])
 print('Item -3 is', shoplist[-3])
-print('Character 0 is', name[0])
 
 # Slicing on a list #
 print('Item 1 to 3 is', shoplist[1:3])
